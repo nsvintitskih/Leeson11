@@ -1,2 +1,4 @@
-package p2;public interface Clientable {
+package p2;
+
+public interface Clientable {
 }
